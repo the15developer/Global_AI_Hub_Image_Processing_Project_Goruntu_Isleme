@@ -1,5 +1,7 @@
 # Global_AI_Hub_Image_Processing_Project
 
+Proje Kaggle linki : https://www.kaggle.com/code/dannyachami/global-ai-hub-projesi-goruntu-isleme
+
 Proje Özeti
 
 Bu projede hayvan türlerinden oluşan bir veri seti üzerinde Convolutional Neural Network (CNN) model eğitilmektedir. Görüntülerin renk manipülasyonları ve beyaz dengeleme uygulamalarıyla da modelin doğruluk oranları test edilmektedir. Model, başlangıçta orijinal test seti ile test edilip doğruluğu ölçülmüştür, ardından manipülasyonlar (üç farklı renk değişikliği) yapılmış ve modelin performansı tekrar test edilmiştir. Son olarak, beyaz dengeleme algoritması uygulanarak manipüle edilmiş test seti üzerinde doğruluk oranı tekrar hesaplanmıştır.
