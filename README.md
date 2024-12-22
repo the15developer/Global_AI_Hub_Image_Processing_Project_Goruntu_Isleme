@@ -23,7 +23,7 @@ Model Eğitimi: Model, başlangıçta orijinal veri setiyle eğitildi ve ardınd
 
 Başarı Değerlendirmesi: Her bir test setinin doğruluğu hesaplandı. Sonuçlar karşılaştırıldı ve modelin renk manipülasyonlarına karşı dayanaklılığı değerlendirildi.
 
-3. Sonuçlar
+Sonuçlar
 Projede kullanılan test setlerine göre doğruluk oranları:
 
 Orijinal Test Seti: %68 doğruluk
